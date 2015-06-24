@@ -1,2 +1,2 @@
 # sputils
-A utility library for spires!
+A node utility library for spires!
